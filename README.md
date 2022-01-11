@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @searemind
+- 👋 Hi, I’m @searemind (he/him)
 - 🌱 I love functional programming
 
 <!---
